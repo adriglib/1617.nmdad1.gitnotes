@@ -2,7 +2,7 @@
 >Mijn persoonlijke AHS informatie
 
 | Info               |                        |
-| :--------          |                        |
+| ----------------   | ---------------------  |
 | Naam               | Glibert                |
 | Voornaam           | Adriaan                |
 | Straat             | Industrieweg           |
