@@ -1,5 +1,5 @@
 
->Mijn persoonlijke AHS informatie
+Mijn persoonlijke AHS informatie
 |Info| |
 |:---- |
 |Naam|Glibert|
