@@ -1,11 +1,12 @@
 
-Mijn persoonlijke AHS informatie
-|Info| |
-|:---- |
-|Naam|Glibert|
-|Voornaam|Adriaan|
-|Straat|Industrieweg 4|
-|Postcode|9000|
+>Mijn persoonlijke AHS informatie
+
+| Info               |                        |
+| :--------          |                        |
+| Naam               | Glibert                |
+| Voornaam           | Adriaan                |
+| Straat             | Industrieweg           |
+| Postcode           | 9000                   |
 
 ------
 
