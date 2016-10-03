@@ -7,6 +7,9 @@
 | Voornaam           | Adriaan                |
 | Straat             | Industrieweg           |
 | Postcode           | 9000                   |
+| Onderwijsinstelling| Arteveldehogeschool    |
+| Specialisatie      | ProDev                 |
+
 
 ------
 
@@ -27,3 +30,9 @@ Mappen
 - [Lectures - 11](/Lectures/11/)
 - [Lectures - 12](/Lectures/12/)
 - [Lectures - 13](/Lectures/13/)
+
+------
+
+Author: Adriaan Glibert
+
+![Adriaan Glibert](https://www.facebook.com/photo.php?fbid=10209157518883367&l=377f0dd615)
