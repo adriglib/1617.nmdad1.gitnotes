@@ -1,10 +1,8 @@
 
->Résume
+#Résume
 
 ------
-
-Personalia
-
+##Personalia
 ------
 
 | Info               |                        |
@@ -19,11 +17,11 @@ Personalia
 | Burgelijke staat | Ongehuwd    |
 | Telefoonnummer      | +32471.65.91.40                 |
 | E-mailadres      | adriglib@student.arteveldehs.be                 |
-| Social Media      | [Facebook](https://www.facebook.com/ "Hover tekst")                  |
+| Social Media      | [Facebook](https://www.facebook.com/AdriaanGlibert "Adriaan Glibert's Facebookprofiel")                  |
 
 
 ------
-Opleiding
+##Opleiding
 ------
 
 - >Algemeen Secundair Onderwijs
@@ -33,8 +31,87 @@ Opleiding
     >>Grafische en Digitale Media
     
 ------
-Werkervaring
+##Werkervaring
 ------    
+
+- >Apotheek Glibert-Lox
+    >>Uitpakker
+    
+- >Algemeen Ziekenhuis AZ Glorieux
+    >>Bezorger Medicatie
+    
+- >Caroline Biss
+    >>Uitpakker
+    
+- >Carodel Ronse
+    >>Laden en lossen
+    
+- >Van Gansewinkel
+    >>Huisvuilbelader
+    >>Commercieel Afvalbelader
+    
+
+------
+##Nevenactiviteit
+------ 
+
+- Lopen
+- Badminton
+- Videobewerking
+
+------
+##Computerkennis
+------    
+
+- >Software
+    >>Adobe Illustrator
+    >>Adobe Photoshop
+    >>Adobe After Effects
+    >>Adobe Premiere Pro
+    >>Adobe Lightroom
+    >>Adobe Indesign
+        
+    
+- >Webtechnologie en programmeertalen
+    >>HTML5
+    >>CSS
+    >>Javascript
+    >>C#
+    >>PHP
+    
+- >Favoriete websites en apps
+    >>[reddit](https://www.reddit.com/ "The frontpage of the internet")
+    >>[YouTube](https://www.youtube.com/ "Watch all the tutorials")
+    >>[Facebook](https://www.facebook.com/ "Connect with all your friends")
+    
+
+------
+##Talenkennis
+------   
+
+- Nederlands
+- Frans
+- Engels
+
+------
+##Overige
+------   
+
+- _Love writing code, can't wait to learn more and get better at it!_
+
+
+------
+##Autor
+------ 
+
+Adriaan Glibert
+
+![Foto van Adriaan](https://yt3.ggpht.com/-2O2EOHxrqCQ/AAAAAAAAAAI/AAAAAAAAAAA/xCGeoJOxRA8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg)
+
+
+
+
+
 
 
    
