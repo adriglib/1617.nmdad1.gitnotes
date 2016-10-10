@@ -1,10 +1,9 @@
 
 #Résume
 
-------
+
 ##Personalia
 
-------
 
 | Info               |                        |
 | ----------------   | ---------------------  |
@@ -21,10 +20,9 @@
 | Social Media      | [Facebook](https://www.facebook.com/AdriaanGlibert "Adriaan Glibert's Facebookprofiel")                  |
 
 
-------
+
 ##Opleiding
 
-------
 
 - >Algemeen Secundair Onderwijs
     >>Wetenschappen Wiskunde
@@ -32,10 +30,9 @@
 - >Artevelde Hogeschool
     >>Grafische en Digitale Media
     
-------
-##Werkervaring
 
-------    
+##Werkervaring
+    
 
 - >Apotheek Glibert-Lox
     >>Uitpakker
@@ -54,19 +51,16 @@
     >>Commercieel Afvalbelader
     
 
-------
-##Nevenactiviteit
 
------- 
+##Nevenactiviteit
+ 
 
 - Lopen
 - Badminton
 - Videobewerking
 
-------
-##Computerkennis
 
-------    
+##Computerkennis    
 
 - >Software
     >>Adobe Illustrator
@@ -90,32 +84,28 @@
     >>[Facebook](https://www.facebook.com/ "Connect with all your friends")
     
 
-------
-##Talenkennis
 
-------   
+##Talenkennis
+   
 
 - Nederlands
 - Frans
 - Engels
 
-------
-##Overige
 
-------   
+##Overige
+ 
 
 - _Love writing code, can't wait to learn more and get better at it!_
 
 
-------
+
 ##Autor
 
------- 
 
 Adriaan Glibert
 
-![Foto van Adriaan](https://yt3.ggpht.com/-2O2EOHxrqCQ/AAAAAAAAAAI/AAAAAAAAAAA/xCGeoJOxRA8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg)
-
+<img alt="Foto van Adriaan" src="https://yt3.ggpht.com/-2O2EOHxrqCQ/AAAAAAAAAAI/AAAAAAAAAAA/xCGeoJOxRA8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" width="150px" height="150px">;
 
 
 
