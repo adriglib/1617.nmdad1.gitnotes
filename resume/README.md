@@ -3,6 +3,7 @@
 
 ------
 ##Personalia
+
 ------
 
 | Info               |                        |
@@ -22,6 +23,7 @@
 
 ------
 ##Opleiding
+
 ------
 
 - >Algemeen Secundair Onderwijs
@@ -32,6 +34,7 @@
     
 ------
 ##Werkervaring
+
 ------    
 
 - >Apotheek Glibert-Lox
@@ -53,6 +56,7 @@
 
 ------
 ##Nevenactiviteit
+
 ------ 
 
 - Lopen
@@ -61,6 +65,7 @@
 
 ------
 ##Computerkennis
+
 ------    
 
 - >Software
@@ -87,6 +92,7 @@
 
 ------
 ##Talenkennis
+
 ------   
 
 - Nederlands
@@ -95,6 +101,7 @@
 
 ------
 ##Overige
+
 ------   
 
 - _Love writing code, can't wait to learn more and get better at it!_
@@ -102,6 +109,7 @@
 
 ------
 ##Autor
+
 ------ 
 
 Adriaan Glibert
