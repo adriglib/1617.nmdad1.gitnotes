@@ -105,7 +105,9 @@
 
 Adriaan Glibert
 
-<img alt="Foto van Adriaan" src="https://yt3.ggpht.com/-2O2EOHxrqCQ/AAAAAAAAAAI/AAAAAAAAAAA/xCGeoJOxRA8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" width="150px" height="150px">;
+<img alt="Foto van Adriaan" src="https://yt3.ggpht.com/-2O2EOHxrqCQ/AAAAAAAAAAI/AAAAAAAAAAA/xCGeoJOxRA8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" width="150px" height="150px">
+
+
 
 
 

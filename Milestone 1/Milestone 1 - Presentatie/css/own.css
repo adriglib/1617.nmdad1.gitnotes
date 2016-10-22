@@ -1,0 +1,17 @@
+.reveal section img { background:none; border:none; box-shadow:none; }
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    font-family: Bitter, serif;
+    font-size: 40pt;
+}
+
+.reveal p,
+.reveal li{
+    font-family: Raleway, serif;
+    font-size: 18pt;
+    padding: 5px 0 5px 0;
+}
